@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Espartano360
+- 👋 Hi, I’m Guido VH
 - 👀 I’m interested in Technology, AI, Customer Service, Finance, Trail Running, Fitness, Chess, and OCR
 - 🌱 I’m currently learning about Machine Learning, Coding, and Investing in Complex Financial Instruments
 - 💞️ I’m looking to collaborate on anything AI related
